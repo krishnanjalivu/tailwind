@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Handjet&family=Poppins:wght@300;400;500;600;900&family=Roboto:wght@100;300;400;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -5,6 +6,8 @@
 @layer base
 {
   html{
-    @apply bg-slate-500
+    @apply bg-slate-500;
+    /* font-family: 'Borel', cursive; */
+    
   }
 }

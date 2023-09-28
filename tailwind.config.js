@@ -12,6 +12,9 @@ export default {
       xl: '1440px',
     },
     extend: {
+      fontSize:{
+        base:'18px'
+      },
       colors:{
         vuejs:{
          100: "#49e659",
